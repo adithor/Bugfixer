@@ -1,0 +1,47 @@
+Features : 
+Documentation 
+Error report 
+making changes to a new file 
+merging the new file with the base file 
+deleting the copy while deleting 
+general question about the program 
+
+
+
+
+
+#Generating entire proects 
+#Debugging 
+# Documenting 
+# Github upload - upload this to github
+# multi agent model 
+
+
+# pass the program and ask for user defined edits 
+# Gemini Model -> contents : program and edits asked 
+# system instruction 
+
+# python main.py --project_name  -> Bugs located with loc , fixing, acceept or deny  
+
+# -> debugger ex.py
+
+#Workflow 
+# python main.py --project_name(ex.py) 
+# do you have any any specific request : y/n 
+# if y :
+#    what is the request :
+# elif n:
+#    Debugging the code
+
+
+# tell about a new project idea and it makes the project files 
+
+# Programming 
+
+#gemini 1.5flash -> code solving
+
+# hardcode sample.py
+
+# refering to files in the directory (os library )
+#       -> list of the files in direcotry 
+#       -> open the file and edit 
